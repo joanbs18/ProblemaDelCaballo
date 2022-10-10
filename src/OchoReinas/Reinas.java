@@ -25,8 +25,7 @@ public class Reinas {
                 }
 
             }
-        } 
-        else {
+        } else {
             System.out.println("");
             imprimirTablero(matriz);
         }
